@@ -60,5 +60,3 @@ This project can and should be deployed as a static web app using a service like
 | Build layout with React or vanilla HTML/CSS | Medium | Caleb | Start with one page at a time |
 | Add interactivity (page routing + form) | Medium | Caleb | React Router if using React |
 | Prep for deployment | Medium | Caleb + Instructor | Pick a platform and deploy MVP | 
-
-let me know if you need help
